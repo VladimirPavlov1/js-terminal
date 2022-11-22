@@ -1,0 +1,29 @@
+{
+  "name": "my-project",
+  "source": "src/index.html",
+  "version": "1.0.0",
+  "description": "npm-basic",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladimirPavlov1/js-terminal.git"
+  },
+  "author": "pavlov vladimir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VladimirPavlov1/js-terminal/issues"
+  },
+  "homepage": "https://github.com/VladimirPavlov1/js-terminal#readme",
+  "dependencies": {
+    "basiclightbox": "^5.0.4",
+    "simple-lightbox": "^2.1.0",
+    "parcel": "latest"
+  }
+  
+  
+  
+}
