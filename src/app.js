@@ -234,55 +234,61 @@
 
   // const numbers=[1,2,2]
   // console.log(squareSum(numbers))
-  console.log('hello')
+  
 
   // API погода cd1169ad9fd243b3be5160337222211
 
-const formEl=document.querySelector('.search')
-console.log(formEl)
-const listEl= document.querySelector('.list')
-console.log(listEl)
-formEl.addEventListener('submit',onFormSubmit);
+// const formEl=document.querySelector('.search')
+// console.log(formEl)
+// const listEl= document.querySelector('.list')
+// console.log(listEl)
+// formEl.addEventListener('submit',onFormSubmit);
 
-function onFormSubmit(evt){
-  evt.preventDefault();
+// function onFormSubmit(evt){
+//   evt.preventDefault();
   
-  console.dir(evt.currentTarget)
-  const {days:{value:daysValue},search:{value:searchValue}} = evt.currentTarget.elements;
-  console.log(daysValue,searchValue)
+//   console.dir(evt.currentTarget)
+//   const {days:{value:daysValue},search:{value:searchValue}} = evt.currentTarget.elements;
+//   console.log(daysValue,searchValue)
 
-  if(!searchValue){
-    alert('Поле пусте😒');
-    return;
-  }
-  forecastApi(searchValue,daysValue).then(data=>
-    console.log(data)
-    createMarkup(data.forecast.forecastday))
-}
+//   if(!searchValue){
+//     alert('Поле пусте😒');
+//     return;
+//   }
+//   forecastApi(searchValue,daysValue).then(data=>
+    
+//     createMarkup(data.forecast.forecastday))
+// }
 
-const BASE_URL='https://api.weatherapi.com/v1/forecast.json';
-const API_KEY='cd1169ad9fd243b3be5160337222211'
+// const BASE_URL='https://api.weatherapi.com/v1/forecast.json';
+// const API_KEY='cd1169ad9fd243b3be5160337222211'
 
-function forecastApi(name="Kiev",days){
-  return fetch(`${BASE_URL}?key=${API_KEY}&q=${name}&days=${days}`).then(resp=>{
-    console.log(resp)
-  if(!resp.ok){
-    throw new Error(resp.statusText)
-  }
-  return resp.json()
-})
-.catch(err=>console.error(err))
-}
+// function forecastApi(name="Kiev",days){
+//   return fetch(`${BASE_URL}?key=${API_KEY}&q=${name}&days=${days}&lang=uk`)
+  
+//   .then(resp=>{
+//     console.log(resp)
+//   if(!resp.ok){
+//     throw new Error(resp.statusText)
+//   }
+//   return resp.json()
+// })
+
+// .catch(err=>console.error(err))
+// }
+
+
+// function createMarkup(arr){
+//   const markUp=arr.map(item=>`<li class='item'>
+//   <img src="${item.day.condition.icon}" alt="">
+//   <span>${item.day.condition.text}</span>
+//   <h2>День: ${item.date}</h2>
+//   <h3>Температура:${item.day.avgtemp_c}&#8451;
+//   </h3>
+//   </li>`).join('');
+//   listEl.innerHTML=markUp;
+// }
+
+
 console.log('hello')
 
-
-function createMarkup(arr){
-  const markUp=arr.map(item=>`<li>
-  <img src="${item.day.condition.icon}" alt="">
-  <span>${item.day.condition.text}</span>
-  <h2>День${item.date}</h2>
-  <h3>Температура:${item.avgtemp_c}&#8451;
-  </h3>
-  </li>`).join('');
-  listEl.innerHTML=markUp;
-}
