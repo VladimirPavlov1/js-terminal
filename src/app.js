@@ -289,6 +289,85 @@
 //   listEl.innerHTML=markUp;
 // }
 
+// Функція що знаходить мінімальне та максимальне число
+
+
+// const arr=[5]        
+
+// const min = function(list){
+//   let count=list[0];
+//  for(let i=0; i<list.length;i+=1){
+//   if(count >=list[i]){
+//     count=list[i]
+//   }
+//  }
+
+  
+//   return count
+// }
+// const max = function(list){
+  
+//   let count=list[0];
+//   for(let i=0; i<list.length;i+=1){
+//    if(count <=list[i]){
+//      count=list[i]
+//    }
+//   }
+
+
+
+   
+//    return count
+// }
+
+// const min=function(list)=>Math.min(...list)
+// console.log(min(arr))
+// console.log(max(arr))
+
 
 console.log('hello')
+
+// abbrevName("Evan Cole"), "E.C")
+
+const arr ="HxXBqNwiyAccop QKYpmZCiiA";
+
+// function  abbrevName(name){
+//   const newArr=name.split(' ')
+//   let firstWord=newArr[0];
+//   let secondWord=newArr[1];
+//   let abbrevArr=[];
+ 
+  
+ 
+//   abbrevArr.push(firstWord[0],secondWord[0])
+ 
+//   newString=abbrevArr.join('.')
+  
+//   return newString
+// }
+// 1.Ділимо на 2 слова.
+// 2. Приводимо до масиву
+// 2.Забираємо 1 букви
+// зшиваємо 2 масиви
+
+
+// function  abbrevName(name){
+//  const letters= name.split('')
+//  let newArr=[];
+//  let newString='';
+ 
+//  for(const letter of letters){
+ 
+//   if(letter!==' '&&letter===letter.toUpperCase()){
+//     newArr.push(letter)
+//   }
+  
+//  }
+//  newString=newArr.join(".")
+//  return newString
+// }
+
+
+console.log(abbrevName(arr))
+
 
