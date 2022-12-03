@@ -8,18 +8,23 @@
     <title>Document</title>
 </head>
 <body>
-    <div class="container">
-        <div class="card-img-top">
-            <!-- <img src="" alt=""> -->
-        </div>
-        <div class="card-body">
-
-        </div>
-        <ul class="list-group">
-            <li class="list-group-item"></li>
-        </ul>
+    <form class="search-form"
+        id="search-form">
+        <input
+          type="text"
+          name="searchQuery"
+          autocomplete="off"
+          placeholder="Search images..."
+        />
+        <button type="submit">Search</button>
+    </form>
         
+    <div class="gallery">
+        <!-- Картки зображень -->
     </div>
+    <button type="button" class="load-more">Load more</button>
+
+    <script type="module" src="news_api_service.js"></script>
     <script type="module" src="task11js.js"></script>
     <script type="module" src="users.js"></script>
     <script type="module" src="crud.js"></script>
@@ -27,3 +32,4 @@
     <script type="module" src="app.js"></script>
 </body>
 </html>
+

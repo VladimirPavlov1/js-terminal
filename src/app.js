@@ -368,6 +368,6 @@ const arr ="HxXBqNwiyAccop QKYpmZCiiA";
 // }
 
 
-console.log(abbrevName(arr))
+// console.log(abbrevName(arr))
 
 
