@@ -325,11 +325,11 @@
 // console.log(max(arr))
 
 
-console.log('hello')
+// console.log('hello')
 
 // abbrevName("Evan Cole"), "E.C")
 
-const arr ="HxXBqNwiyAccop QKYpmZCiiA";
+// const arr ="HxXBqNwiyAccop QKYpmZCiiA";
 
 // function  abbrevName(name){
 //   const newArr=name.split(' ')

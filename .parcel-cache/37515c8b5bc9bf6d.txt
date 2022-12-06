@@ -1,4 +1,4 @@
-4244
+4248
 98C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\node-addon-api\napi-inl.h133115208800568574 0
 117C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@parcel\core\test\fixtures\duplicate-targets133115209072444283 1
 100C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\css-tree\lib\utils\clone.js133115208838366088 0
@@ -35,13 +35,7 @@
 97C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\node-addon-api\nothing.c133115208747429220 0
 91C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\dom-serializer\lib133115208833449790 1
 107C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\type-fest\ts41\delimiter-case.d.ts133115208815371067 0
-64C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\dist133144452091846614 1
-100C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@parcel\workers\lib\process133115208888532521 1
-84C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\htmlparser2133115208818940881 1
-89C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\term-size\vendor133115208770896728 1
-104C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@parcel\watcher\src\Debounce.hh133115208852531107 0
-111C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\chrome-trace-event\dist\trace-event.js133115208749494264 0
-70C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\src\app.js133144452088146833 0
+64C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\dist133145479561067014 1
 104C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\caniuse-lite\data\regions\LI.js133115209181435620 0
 103C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@jridgewell\source-map\LICENSE133115208748309174 0
 84C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\ansi-styles133115208768736292 1
@@ -49,6 +43,12 @@
 98C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\lmdb\src\v8-functions.cpp133115209004769535 0
 99C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\svgo\plugins\mergePaths.js133115208885502673 0
 82C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@trysound133115208722590281 1
+100C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@parcel\workers\lib\process133115208888532521 1
+84C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\htmlparser2133115208818940881 1
+89C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\term-size\vendor133115208770896728 1
+104C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@parcel\watcher\src\Debounce.hh133115208852531107 0
+111C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\chrome-trace-event\dist\trace-event.js133115208749494264 0
+70C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\src\app.js133145479558097169 0
 88C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\simple-lightbox133115183859017214 1
 128C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.umd.js.map133115208795427862 0
 117C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@parcel\watcher\src\macos\FSEventsBackend.hh133115208863540879 0
@@ -74,9 +74,16 @@
 102C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\simple-lightbox\demo\sections133115183856627353 1
 77C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\yaml133115208947422642 1
 69C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\README.md133115155633865305 0
-63C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\src133142690284853766 1
+63C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\src133145447264968241 1
 108C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@swc\helpers\src\_object_spread.mjs133115209046498448 0
 89C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\msgpackr\pack.js133115208849346149 0
+103C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\css-what\lib\es\stringify.d.ts133115208867150682 0
+130C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@parcel\optimizer-image\parcel-image.linux-arm64-gnu.node133115208992748450 0
+75C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\src\task11js.js133145478785126377 0
+103C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@parcel\core\lib\Dependency.js133115208970949372 0
+113C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\dom-serializer\lib\foreignNames.d.ts.map133115208801929750 0
+128C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@swc\helpers\lib\_class_apply_descriptor_destructure.js133115208832939792 0
+106C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\source-map\dist\source-map.min.js133115208869680567 0
 87C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\css-select\lib133115208901751824 1
 71C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\src\crud.js133143945517670291 0
 104C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\caniuse-lite\data\regions\EC.js133115209101169839 0
@@ -96,10 +103,14 @@
 92C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\commander\Readme.md133115208791573320 0
 82C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\lmdb\util133115209036308995 1
 100C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\css-tree\lib\lexer\trace.js133115209028379399 0
-74C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\src\index.html133142691319370678 0
+74C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\src\index.html133145470501914210 0
 121C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\electron-to-chromium\full-chromium-versions.json133115208809806206 0
 102C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\v8-compile-cache\package.json133115208758274219 0
 104C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\htmlparser2\lib\Parser.d.ts.map133115208806061267 0
+92C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\lmdb\dict\dict2.txt133115209048153526 0
+111C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@parcel\packager-js\src\DevPackager.js133115208842941041 0
+134C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@parcel\package-manager\test\validateModuleSpecifiers.test.js133115208930862955 0
+83C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\src\news_api_service.js133145475252764175 0
 104C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\caniuse-lite\data\regions\KZ.js133115209179245735 0
 94C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\cosmiconfig\README.md133115208885482683 0
 117C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\caniuse-lite\data\features\es6-generators.js133115209104349963 0
@@ -342,8 +353,8 @@
 91C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\clone\package.json133115208748744314 0
 132C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.vcxproj133115209051047668 0
 108C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\caniuse-lite\data\features\asmjs.js133115208901461829 0
-111C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\yaml\browser\dist\warnings-df54cb69.js133115208929743028 0
 121C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@jridgewell\resolve-uri\dist\resolve-uri.mjs.map133115208767356370 0
+111C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\yaml\browser\dist\warnings-df54cb69.js133115208929743028 0
 94C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\mdn-data\api\index.js133115208753724044 0
 103C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\css-select\lib\attributes.d.ts133115208877336085 0
 80C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\is-json133115208782973625 1
@@ -871,12 +882,12 @@
 115C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\svgo\plugins\removeAttributesBySelector.js133115208910044073 0
 132C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@jridgewell\sourcemap-codec\dist\types\sourcemap-codec.d.ts133115208797417772 0
 112C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\type-fest\source\async-return-type.d.ts133115208768796289 0
+104C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\caniuse-lite\data\regions\AI.js133115208835480670 0
+103C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\type-fest\source\asyncify.d.ts133115208777148763 0
 91C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\js-tokens\index.js133115208757079098 0
 104C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\css-tree\lib\lexer\structure.js133115209023379669 0
 86C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\svgo\lib\svgo133115208987358473 1
 109C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\caniuse-lite\data\features\webgpu.js133115209265858314 0
-104C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\caniuse-lite\data\regions\AI.js133115208835480670 0
-103C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\type-fest\source\asyncify.d.ts133115208777148763 0
 117C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@parcel\workers\src\threads\ThreadsWorker.js133115208910464062 0
 87C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\semver\LICENSE133115208748694335 0
 104C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\caniuse-lite\data\regions\ES.js133115209103670010 0
@@ -1302,9 +1313,6 @@
 93C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\stable\stable.min.js133115208769976228 0
 96C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@jridgewell\resolve-uri133115208783173613 1
 121C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\source-map-support\browser-source-map-support.js133115208751064180 0
-96C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\node-releases\README.md133115208793237681 0
-124C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@swc\helpers\src\_iterable_to_array_limit_loose.mjs133115209039968783 0
-116C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\simple-lightbox\dist\simpleLightbox.min.css133115183858927241 0
 97C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@parcel\css\package.json133115208790923343 0
 98C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\domutils\lib\helpers.d.ts133115208850156091 0
 113C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb133115209049383450 1
@@ -1341,10 +1349,6 @@
 111C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\source-map\lib\source-map-generator.js133115208817830930 0
 118C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@swc\helpers\src\_tagged_template_literal.mjs133115209051388918 0
 95C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\source-map\lib\util.js133115208828791235 0
-103C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@parcel\core\lib\Dependency.js133115208970949372 0
-113C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\dom-serializer\lib\foreignNames.d.ts.map133115208801929750 0
-128C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@swc\helpers\lib\_class_apply_descriptor_destructure.js133115208832939792 0
-106C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\source-map\dist\source-map.min.js133115208869680567 0
 102C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\simple-lightbox\.editorconfig133115183851114512 0
 101C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\simple-lightbox\.eslintrc.js133115183851194503 0
 104C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\caniuse-lite\data\regions\LB.js133115209180545657 0
@@ -1366,6 +1370,9 @@
 103C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\regenerator-runtime\runtime.js133115208777238769 0
 114C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\caniuse-lite\data\features\css-filters.js133115209051658918 0
 101C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\simple-lightbox\package.json133115183850964517 0
+96C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\node-releases\README.md133115208793237681 0
+124C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@swc\helpers\src\_iterable_to_array_limit_loose.mjs133115209039968783 0
+116C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\simple-lightbox\dist\simpleLightbox.min.css133115183858927241 0
 103C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@parcel\graph\test\integration133115208794597616 1
 104C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\caniuse-lite\data\regions\CG.js133115208994138868 0
 132C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope133115208800257893 1
@@ -1621,6 +1628,7 @@
 122C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\caniuse-lite\data\features\css-media-scripting.js133115209070714371 0
 109C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\ordered-binary\assets\powers-dre.png133115208834630913 0
 108C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\mdn-data\css\properties.schema.json133115208852491114 0
+82C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\dist\index.fdfab7c4.js133145478788350591 0
 105C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\ordered-binary\.idea\modules.xml133115208842041086 0
 104C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\caniuse-lite\data\regions\DE.js133115209093419931 0
 99C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\node-releases\package.json133115208775341926 0
@@ -1850,9 +1858,6 @@
 117C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\caniuse-lite\data\features\battery-status.js133115208945738742 0
 83C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\acorn\dist133115208836826179 1
 91C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\lmdb\dict\dict.txt133115209047703540 0
-92C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\lmdb\dict\dict2.txt133115209048153526 0
-111C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@parcel\packager-js\src\DevPackager.js133115208842941041 0
-134C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@parcel\package-manager\test\validateModuleSpecifiers.test.js133115208930862955 0
 103C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\commander\package-support.json133115208762976599 0
 93C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\lmdb\dependencies\v8133115209029199356 1
 104C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@parcel\core\lib\projectPath.js133115209032039211 0
@@ -2040,7 +2045,7 @@
 98C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\htmlparser2\lib\Parser.js133115208767076401 0
 124C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@jridgewell\resolve-uri\dist\types\resolve-uri.d.ts133115208797377744 0
 103C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\htmlparser2\lib\Tokenizer.d.ts133115208837316173 0
-86C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\dist\index.0641b553.js.map133144452091806636 0
+86C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\dist\index.0641b553.js.map133145479561037016 0
 100C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@parcel\optimizer-image\lib133115208826725644 1
 104C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\caniuse-lite\data\regions\FJ.js133115209110524615 0
 107C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\htmlparser2\lib\Tokenizer.d.ts.map133115208809856209 0
@@ -2168,7 +2173,7 @@
 107C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\entities\lib\decode_codepoint.d.ts133115208857130873 0
 95C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@jridgewell\source-map133115208796667784 1
 102C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\entities\lib\encode-trie.d.ts133115208869610581 0
-75C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\dist\index.html133144397695198412 0
+75C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\dist\index.html133145462244106173 0
 95C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\entities\lib\generated133115208863470883 1
 123C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@parcel\transformer-babel\src\remapAstLocations.js133115208868660608 0
 115C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\caniuse-lite\data\features\font-feature.js133115209114864402 0
@@ -2361,8 +2366,6 @@
 114C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\caniuse-lite\data\features\sql-storage.js133115209235189948 0
 99C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\css-what\lib\es\parse.d.ts133115208862600939 0
 97C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\css-what\lib\es\parse.js133115208785393503 0
-103C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\css-what\lib\es\stringify.d.ts133115208867150682 0
-130C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@parcel\optimizer-image\parcel-image.linux-arm64-gnu.node133115208992748450 0
 107C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\css-what\lib\es\stringify.d.ts.map133115208835800662 0
 101C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\css-what\lib\es\stringify.js133115208795667832 0
 103C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\css-what\lib\es\types.d.ts.map133115208844430952 0
@@ -2540,8 +2543,8 @@
 115C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\css-select\lib\pseudo-selectors\index.d.ts133115208891042388 0
 116C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\caniuse-lite\data\features\sharedworkers.js133115209230400196 0
 113C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\css-select\lib\pseudo-selectors\index.js133115208798152848 0
-124C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts.map133115208866870700 0
 117C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\caniuse-lite\data\features\css-exclusions.js133115209048973485 0
+124C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts.map133115208866870700 0
 89C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\cosmiconfig\dist133115208907169095 1
 97C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\cosmiconfig\package.json133115208811456116 0
 104C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\caniuse-lite\data\regions\VE.js133115209261378553 0
@@ -3190,7 +3193,7 @@
 109C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\caniuse-lite\data\features\run-in.js133115209224730502 0
 121C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\caniuse-lite\data\features\screen-orientation.js133115209226390406 0
 115C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\caniuse-lite\data\features\script-async.js133115209226530402 0
-82C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\dist\index.954ff969.js133144397695198412 0
+82C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\dist\index.954ff969.js133145457624789315 0
 115C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\caniuse-lite\data\features\script-defer.js133115209226720403 0
 117C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\caniuse-lite\data\features\scrollintoview.js133115209226760383 0
 107C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\caniuse-lite\data\features\sdch.js133115209228210305 0
@@ -3336,7 +3339,6 @@
 105C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@parcel\transformer-json\LICENSE133115208792586128 0
 125C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@parcel\fs-search\fs-search.linux-arm-gnueabihf.node133115208904291940 0
 93C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@swc\helpers\scripts133115209065919433 1
-120C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@jridgewell\resolve-uri\dist\resolve-uri.umd.js133115208754803999 0
 89C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@swc\helpers\src133115209060379719 1
 114C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@swc\helpers\src\_array_like_to_array.mjs133115208992778451 0
 111C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@swc\helpers\src\_array_with_holes.mjs133115208993168418 0
@@ -3863,7 +3865,7 @@
 125C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@parcel\node-resolver-core\test\fixture\node_modules133115208988835012 1
 134C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias133115209030539290 1
 144C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\source.js133115208985038605 0
-86C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\dist\index.954ff969.js.map133144397695348416 0
+86C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\dist\index.954ff969.js.map133145457625119284 0
 138C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased-file133115208993788880 1
 129C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\foo133115208994718835 1
 164C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\sub\b\index.js133115208934497925 0
@@ -4157,6 +4159,7 @@
 104C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@jridgewell\resolve-uri\LICENSE133115208749574286 0
 106C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@jridgewell\resolve-uri\README.md133115208786873467 0
 117C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@jridgewell\resolve-uri\dist\resolve-uri.mjs133115208791963742 0
+120C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@jridgewell\resolve-uri\dist\resolve-uri.umd.js133115208754803999 0
 124C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@jridgewell\resolve-uri\dist\resolve-uri.umd.js.map133115208777158771 0
 107C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@jridgewell\resolve-uri\dist\types133115208795927834 1
 104C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\@jridgewell\gen-mapping\LICENSE133115208749654263 0
@@ -4235,11 +4238,12 @@
 86C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\.bin\svgo.ps1133115209324394404 0
 88C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\.bin\terser.cmd133115209324404406 0
 88C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\node_modules\.bin\terser.ps1133115209324404406 0
-82C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\dist\index.0641b553.js133144452091436650 0
-83C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\dist\index.2cdaf7bc.css133144397695198412 0
-87C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\dist\index.2cdaf7bc.css.map133144397695348416 0
-82C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\dist\index.538f4e1a.js133144397695208408 0
-86C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\dist\index.538f4e1a.js.map133144397695368406 0
-82C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\dist\index.a59ea9e9.js133144397695198412 0
-86C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\dist\index.a59ea9e9.js.map133144397695348416 0
+82C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\dist\index.0641b553.js133145479560987019 0
+83C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\dist\index.2cdaf7bc.css133145457624789315 0
+87C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\dist\index.2cdaf7bc.css.map133145457625109288 0
+82C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\dist\index.538f4e1a.js133145457624789315 0
+86C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\dist\index.538f4e1a.js.map133145457625109288 0
+82C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\dist\index.a59ea9e9.js133145457624789315 0
+86C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\dist\index.a59ea9e9.js.map133145457625109288 0
+86C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\dist\index.fdfab7c4.js.map133145478788430591 0
 92C:\Users\Comp\Desktop\GOIT\HW-01\group-homework\js-terminal\dist\js-terminal.59712999.js.map133115221739418931 0

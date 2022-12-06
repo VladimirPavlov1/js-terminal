@@ -1,3 +1,8 @@
+import NewsApi from "./news_api_service";
+
+import LoadMoreBtn from "./load-more-btn";
+
+
 // Форма пошуку
 // Форма спочатку міститья в HTML документі. Користувач буде вводити рядок для пошуку у текстове поле, а по сабміту форми необхідно виконувати HTTP-запит.
 
@@ -110,27 +115,66 @@
 
 // API News=002081a311064500ac33bdf8092d1261
 
-import NewsApi from "./news_api_service";
+
 
 const refs={
     formEl:document.querySelector('.search-form'),
     divGalleryEl:document.querySelector('.gallery'),
-    btnMoreEl:document.querySelector('.load-more'),
+   
 }
-
-const NewsApi = new NewsApi();
+const loadMoreButton = new LoadMoreBtn({selector:'[data-action="load-more"]'})
+console.log(loadMoreButton)
+const newsApi = new NewsApi();
 console.log(refs)
+console.log(NewsApi)
+
+loadMoreButton.hide()
 
 refs.formEl.addEventListener('submit',onSearch);
 
-refs.btnMoreEl.addEventListener('click',onLoadMore)
+loadMoreButton.refs.button.addEventListener('click',onLoadMore)
 
 function onSearch(e){
     e.preventDefault();
-    NewsApi.query=e.currentTarget.elements.searchQuery.value
-    NewsApi.fetchArticles();
+    newsApi.query=e.currentTarget.elements.searchQuery.value;
+    refs.btnLoadEl.disabled=false;
+    refs.spanBtnEl.classList.remove('is-hidden')
+    newsApi.resetPage();
+    newsApi.fetchArticles().then(articles=>{
+       markupGallery(articles)
+    });
+    clearDivGallery();
 }
 
 function onLoadMore(){
-    NewsApi.fetchArticles();
+    newsApi.fetchArticles().then(articles=>{
+        markupGallery(articles)
+     });
+}
+
+function markupGallery(arr){
+    const markup=arr.map(item=>`<div class="photo-card">
+     <img src="${item.urlToImage}" alt="A" loading="lazy" />
+       <div class="info">
+         <p class="info-item">
+           <b>Likes:${item.description}</b>
+         </p>
+         <p class="info-item">
+           <b>Views</b>
+         </p>
+         <p class="info-item">
+           <b>Comments</b>
+         </p>
+         <p class="info-item">
+           <b>Downloads</b>
+         </p>
+       </div>
+     </div>`)
+
+     refs.divGalleryEl.insertAdjacentHTML('beforeend', markup);
+}
+
+
+function clearDivGallery(){
+    refs.divGalleryEl.innerHTML="";
 }
