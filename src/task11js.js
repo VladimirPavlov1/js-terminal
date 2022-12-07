@@ -122,33 +122,40 @@ const refs={
     divGalleryEl:document.querySelector('.gallery'),
    
 }
-const loadMoreButton = new LoadMoreBtn({selector:'[data-action="load-more"]'})
+const loadMoreButton = new LoadMoreBtn({selector:'[data-action="load-more"]',
+hidden:true,})
 console.log(loadMoreButton)
 const newsApi = new NewsApi();
 console.log(refs)
 console.log(NewsApi)
 
-loadMoreButton.hide()
+
 
 refs.formEl.addEventListener('submit',onSearch);
+
+
+
 
 loadMoreButton.refs.button.addEventListener('click',onLoadMore)
 
 function onSearch(e){
     e.preventDefault();
     newsApi.query=e.currentTarget.elements.searchQuery.value;
-    refs.btnLoadEl.disabled=false;
-    refs.spanBtnEl.classList.remove('is-hidden')
+    loadMoreButton.show()
     newsApi.resetPage();
     newsApi.fetchArticles().then(articles=>{
-       markupGallery(articles)
+       markupGallery(articles);
+       loadMoreButton.enable()
     });
     clearDivGallery();
 }
 
+
 function onLoadMore(){
+    loadMoreButton.disabled()
     newsApi.fetchArticles().then(articles=>{
-        markupGallery(articles)
+        markupGallery(articles);
+        loadMoreButton.enable()
      });
 }
 
